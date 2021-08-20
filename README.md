@@ -7,5 +7,5 @@ This repository contains an example of how to add [diagrams.net](https://www.dia
 Architecture Diagrams
 ------------
 
-Level 1 - System Context Diagram
+##### Level 1 - System Context Diagram
 ![sample1](./diagrams/sample1.drawio.svg)
