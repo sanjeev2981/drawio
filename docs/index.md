@@ -26,9 +26,8 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 
 ##### Level 1 - System Context Diagram
-![sample1](./diagrams/sample1.drawio.svg)
 ```
-
+![sample1](./diagrams/sample1.drawio.svg)
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
